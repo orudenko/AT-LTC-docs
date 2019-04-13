@@ -12,6 +12,8 @@
 
 [S01 Full: Сводный конспект первого модуля](S01_Full.md)
 
+[S02E08 Типы и структуры данных](S02E08_Value_types_and_data_structures.md)
+
 [S02E09 Компьютерная архитектура, введение](S02E09_Architecture.md) 
     
       
